@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MERLION</Machine>
+    <WindowsUser>Mary</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B6E27C37F9DC946E467AE6C1167008F2B645013E6E75E2EF94E7E356098B56CB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6214b28a-41da-444d-8a17-871694232304_1.0.0.0_neutral__f3gmzvfsaj794</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6214b28a-41da-444d-8a17-871694232304_f3gmzvfsaj794!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6214b28a-41da-444d-8a17-871694232304</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mary</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-23T08:17:44.817</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\bin\Debug\PractiseUsingIfElse.exe">
+      <PackagePath>PractiseUsingIfElse.exe</PackagePath>
+      <Modified>2015-05-23T08:22:06.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\bin\Debug\PractiseUsingIfElse.pdb">
+      <PackagePath>PractiseUsingIfElse.pdb</PackagePath>
+      <Modified>2015-05-23T08:22:06.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-05-23T08:04:43.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-05-23T08:17:42.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter 2\PractiseUsingIfElse\PractiseUsingIfElse\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-23T08:17:44.625</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

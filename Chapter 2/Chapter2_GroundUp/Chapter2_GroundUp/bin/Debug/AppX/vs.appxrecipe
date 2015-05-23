@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MERLION</Machine>
+    <WindowsUser>Mary</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>07EEC3775DD66FE62B53041338D4280647541157FF5A9F055F177B193527DAE8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e4f9875f-bafa-4d01-958b-45e736de3516_1.0.0.0_neutral__f3gmzvfsaj794</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e4f9875f-bafa-4d01-958b-45e736de3516_f3gmzvfsaj794!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e4f9875f-bafa-4d01-958b-45e736de3516</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mary</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-22T08:48:42.687</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\bin\Debug\Chapter2_GroundUp.exe">
+      <PackagePath>Chapter2_GroundUp.exe</PackagePath>
+      <Modified>2015-05-22T09:43:49.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\bin\Debug\Chapter2_GroundUp.pdb">
+      <PackagePath>Chapter2_GroundUp.pdb</PackagePath>
+      <Modified>2015-05-22T09:43:49.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-05-22T08:20:54.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-05-22T08:52:15.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Chapter2_GroundUp\Chapter2_GroundUp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-22T08:48:42.590</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MERLION</Machine>
+    <WindowsUser>Mary</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>910A9880225CC7DDB32CE50FCC45D76723CCBDB4219D960BE8585AFFB9D3D13E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>56c7f4e3-29f9-42c4-aa3e-1e7fd90d1d7d_1.0.0.0_neutral__f3gmzvfsaj794</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>56c7f4e3-29f9-42c4-aa3e-1e7fd90d1d7d_f3gmzvfsaj794!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>56c7f4e3-29f9-42c4-aa3e-1e7fd90d1d7d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mary</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-22T06:47:27.653</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\bin\Debug\UseTheDebugger.exe">
+      <PackagePath>UseTheDebugger.exe</PackagePath>
+      <Modified>2015-05-22T06:47:27.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\bin\Debug\UseTheDebugger.pdb">
+      <PackagePath>UseTheDebugger.pdb</PackagePath>
+      <Modified>2015-05-22T06:47:27.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-05-22T06:36:40.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-05-22T06:47:25.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\UseTheDebugger\UseTheDebugger\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-22T06:47:27.444</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

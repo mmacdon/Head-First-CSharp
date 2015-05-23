@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MERLION</Machine>
+    <WindowsUser>Mary</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>04AC0779301BEF046283F1DE82ED239AB6533BF4ECAC1A85E9342B627206245D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fe5d6fb0-1cc9-4fe2-8763-604014868da2_1.0.0.0_neutral__f3gmzvfsaj794</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fe5d6fb0-1cc9-4fe2-8763-604014868da2_f3gmzvfsaj794!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fe5d6fb0-1cc9-4fe2-8763-604014868da2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mary</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-19T06:23:44.661</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2015-05-19T06:23:44.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb">
+      <PackagePath>Save the Humans.pdb</PackagePath>
+      <Modified>2015-05-19T06:23:44.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-19T05:44:55.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-19T05:46:28.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-19T06:19:26.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-18T11:32:07.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-05-15T10:42:30.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-05-15T10:24:24.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-05-18T11:20:55.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mary\Documents\Visual Studio 2012\Projects\Head First\Save the Humans\Save the Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-19T05:44:39.866</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

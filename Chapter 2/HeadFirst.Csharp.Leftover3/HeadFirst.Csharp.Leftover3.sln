@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadFirst.Csharp.Leftover3", "HeadFirst.Csharp.Leftover3\HeadFirst.Csharp.Leftover3.csproj", "{5E33CE69-0A5F-4FDE-A748-3DDD3D25FC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProgram", "MyProgram\MyProgram.csproj", "{8E19F8A6-F2A3-4405-B576-62FB998A920E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E33CE69-0A5F-4FDE-A748-3DDD3D25FC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E33CE69-0A5F-4FDE-A748-3DDD3D25FC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E33CE69-0A5F-4FDE-A748-3DDD3D25FC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E33CE69-0A5F-4FDE-A748-3DDD3D25FC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E19F8A6-F2A3-4405-B576-62FB998A920E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E19F8A6-F2A3-4405-B576-62FB998A920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E19F8A6-F2A3-4405-B576-62FB998A920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E19F8A6-F2A3-4405-B576-62FB998A920E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
